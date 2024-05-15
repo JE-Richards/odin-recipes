@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    color: rgb(255, 255, 255);
+    background-color: darkslategrey;
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    text-align: left;
+    list-style-type: square;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: blueviolet;
+}
+
+a:visited {
+    color: violet;
+}

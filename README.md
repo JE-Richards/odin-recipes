@@ -10,6 +10,10 @@ The website contains
 - A simple homepage
 - Three separate recipe pages
 
+As the course progresses, CSS is introduced. To practice basic CSS, this project will be revisited and updated to include basic CSS stylesheets that will influence the look of our basic HTML pages.
+
+## The Website
+
 To view the website in your browser, please visit [https://je-richards.github.io/odin-recipes/](https://je-richards.github.io/odin-recipes/).
 
 ## Acknowledgements
