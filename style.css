@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -7,12 +11,20 @@ h1 {
     color: rgb(255, 255, 255);
     background-color: darkslategrey;
     text-align: center;
+    border: 5px solid;
+    border-color: lightslategray;
+}
+
+#recipes-list {
+    text-align: center;
 }
 
 ul {
     font-size: 20px;
     text-align: left;
     list-style-type: square;
+    list-style-position: inside;
+    display: inline-block;
 }
 
 a:link {
